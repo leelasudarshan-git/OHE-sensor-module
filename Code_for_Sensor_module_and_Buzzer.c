@@ -5,8 +5,8 @@
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
-char ssid[] = "Leela sudarshan";
-char pass[] = "kavithamanohar 25";
+char ssid[] = "Wifi-names";
+char pass[] = "password for wifi";
 
 float co_value, h2s_value, ch4_value;
 #define co_pin 34
